@@ -1,0 +1,47 @@
+body, html {
+	color: white;
+	padding: 0px;
+	margin:0px;
+	font-family: futura, "Trebuchet MS", sans-serif;
+}
+.swatch {
+	background-color: grey;
+	width: 20%;
+	float: left;
+	margin-top: 15px;
+	height: 100vh;
+}
+.hidden {
+	/*display: none;*/
+	opacity: 0;
+	color: white;
+	-webkit-transition: all .5s ease-in;
+	-moz-transition: all .5s ease-in;
+	-ms-transition: all .5s ease-in;
+	-o-transition: all .5s ease-in;
+	transition: all .5s ease-in;
+}
+.hidden h1 {
+	text-align: center;
+	color: white;
+}
+.hidden ul {
+	position: relative;
+	top: 200px;
+	background-color: rgba(0,0,0,.2);
+	padding: 30px 0px;
+}
+.hidden ul, .hidden li {
+	width: 100%;
+	text-align: center;
+	list-style-type: none;
+	margin: 0px;
+	padding: 10px 0px;
+	font-size: 24px;
+
+}
+.swatch h1 {
+	text-align: center;
+	background-color: rgba(0,0,0,.2);
+	padding: 30px 0px;
+}

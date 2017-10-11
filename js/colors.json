@@ -1,53 +1,145 @@
 [{
-      "color": "black",
+  "swatch":[
+    {
+      "color": "Cream",
       "category": "hue",
-      "type": "primary",
+      "type": "Whatev",
       "code": {
         "rgba": [255, 255, 255, 1],
-        "hex": "#000"
+        "hex": "#c8bfc7"
       }
     },
     {
-      "color": "white",
-      "category": "value",
+      "color": "olive",
+      "category": "hue",
+      "type": "whatev",
       "code": {
         "rgba": [0, 0, 0, 1],
-        "hex": "#FFF"
+        "hex": "#7a9b76"
       }
     },
     {
-      "color": "red",
+      "color": "brownish",
       "category": "hue",
       "type": "primary",
       "code": {
         "rgba": [255, 0, 0, 1],
-        "hex": "#FF0"
+        "hex": "#8a7e72"
       }
     },
     {
-      "color": "blue",
+      "color": "velvet",
       "category": "hue",
       "type": "primary",
       "code": {
         "rgba": [0, 0, 255, 1],
-        "hex": "#00F"
+        "hex": "#5a2328"
       }
     },
     {
-      "color": "yellow",
+      "color": "blackish",
       "category": "hue",
       "type": "primary",
       "code": {
         "rgba": [255, 255, 0, 1],
-        "hex": "#FF0"
+        "hex": "#090302"
+      }
+    }
+  ]
+},{
+  "swatch":[
+    {
+      "color": "Dark Green",
+      "category": "Green-ish Colors",
+      "type": "Whatev",
+      "code": {
+        "rgba": [255, 255, 255, 1],
+        "hex": "#2F4B26"
       }
     },
     {
-      "color": "green",
-      "category": "hue",
-      "type": "secondary",
+      "color": "Olive Green",
+      "category": "Green-ish Colors",
+      "type": "whatev",
       "code": {
-        "rgba": [0, 255, 0, 1],
-        "hex": "#0F0"
+        "rgba": [0, 0, 0, 1],
+        "hex": "#3E885B"
       }
+    },
+    {
+      "color": "Mint Green",
+      "category": "Green-ish Colors",
+      "type": "primary",
+      "code": {
+        "rgba": [255, 0, 0, 1],
+        "hex": "#85BDA6"
+      }
+    },
+    {
+      "color": "Baby Green",
+      "category": "Green-ish Colors",
+      "type": "primary",
+      "code": {
+        "rgba": [0, 0, 255, 1],
+        "hex": "#BEDCFE"
+      }
+    },
+    {
+      "color": "Cream Green",
+      "category": "Green-ish Colors",
+      "type": "primary",
+      "code": {
+        "rgba": [255, 255, 0, 1],
+        "hex": "#C0D7BB"
+      }
+    }
+  ]
+},{
+  "swatch":[
+    {
+      "color": "Lime Green",
+      "category": "Blueberry East",
+      "type": "Whatev",
+      "code": {
+        "rgba": [255, 255, 255, 1],
+        "hex": "#CCF5AC"
+      }
+    },
+    {
+      "color": "House Green",
+      "category": "Blueberry East",
+      "type": "whatev",
+      "code": {
+        "rgba": [0, 0, 0, 1],
+        "hex": "#BAD29F"
+      }
+    },
+    {
+      "color": "Pastel Blue",
+      "category": "Blueberry East",
+      "type": "primary",
+      "code": {
+        "rgba": [255, 0, 0, 1],
+        "hex": "#808A9F"
+      }
+    },
+    {
+      "color": "Royal Blue",
+      "category": "Blueberry East",
+      "type": "primary",
+      "code": {
+        "rgba": [0, 0, 255, 1],
+        "hex": "#2C497F"
+      }
+    },
+    {
+      "color": "Dark Purple",
+      "category": "Blueberry East",
+      "type": "primary",
+      "code": {
+        "rgba": [255, 255, 0, 1],
+        "hex": "#3D2B56"
+      }
+    }
+  ]
 }]
